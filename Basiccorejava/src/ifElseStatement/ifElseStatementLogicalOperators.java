@@ -16,21 +16,21 @@ public class ifElseStatementLogicalOperators {
 			System.out.println("You are not eliggible");
 		}
 
-	}
-
-}
+	
 
 //OR Operator
+		
 boolean pancard=true;
 boolean adharcard=true;
 
 if (pancard || adharcard)
 {
 	System.out.println("you are eligible");
-	}else {
+}
+    else {
 		System.out.println("you are not eligible");
 	}
-
+	}}
 
 
 
